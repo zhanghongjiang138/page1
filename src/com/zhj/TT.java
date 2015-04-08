@@ -18,7 +18,7 @@ public class TT {
 			a=a/b;
 			a=a+1;
 		}
-		
+		aaa
 		System.out.println(a);
 	}
 
